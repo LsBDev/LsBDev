@@ -1,7 +1,7 @@
 <img width=100% src='https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header'/>
 
 <div align='center'>
-<img width='50%' height='180em' src='https://github-readme-stats.vercel.app/api?username=LsBDev&show_icons=true&theme=dark'/><img width='50%' height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LsBDev&layout=compact&langs_count=168&theme=dark'/>
+<img height='180em' src='https://github-readme-stats.vercel.app/api?username=LsBDev&show_icons=true&theme=dark'/><img width='50%' height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LsBDev&layout=compact&langs_count=168&theme=dark'/>
 </div>
 
 
