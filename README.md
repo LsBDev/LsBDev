@@ -7,7 +7,7 @@
 
 ## Professor e Estudante
 - 📚 Licenciando em Física pela UFRJ (6/9).
-- 💻 Estudando Engenharia de Software na Driven.
+- 💻 Estudando Programação Full Stack na Driven.
 - ✍ Atualmente estudando Python.
 ##
 
