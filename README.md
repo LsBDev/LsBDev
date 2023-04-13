@@ -5,10 +5,8 @@
 <!--  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> -->
 
 
-## Professor e Estudante
 - 📚 Licenciando em Física pela UFRJ (6/9).
 - 💻 Estudando Programação Full Stack na Driven.
-- ✍ Atualmente estudando Python.
 ##
 
 
