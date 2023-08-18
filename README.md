@@ -6,7 +6,7 @@
 
 
 - 📚 Licenciando em **Física** pela **UFRJ**.
-- 💻 Estudando **Programação Full Stack** na **Driven**.
+- 💻 Estudando **Programação FullStack** na **Driven**.
 ##
 
 
