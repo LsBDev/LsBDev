@@ -9,8 +9,8 @@
 - 💻 Estudando **Programação FullStack** na **Driven**.
 ##
 
-
-
+![LsB's GitHub stats](https://github-readme-stats.vercel.app/api?username=LsBDev&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LsBDev&layout=compact&theme=dark)](https://github.com/LsBDev/github-readme-stats)
 
 
 ### Linguagens e Ferramentas:
