@@ -34,7 +34,7 @@
   <img align="left" alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   <img align="left" alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 </div><br/>
-</br>
+<br/>
 
 _________________________________________________________________________________________________________________________
 
