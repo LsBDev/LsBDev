@@ -1,8 +1,7 @@
 <img width=100% src='https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header'/>
 
 ### Olá Mundo, eu sou Luís Felipe  👋
-Sou um Desenvolvedor Web Full Stack e estudante de Física. Meu recente interesse pela tecnologia me levou a adquirir habilidades em JavaScript e a buscar soluções inovadoras para desafios complexos. Em busca constante pelo conhecimento.
-
+Sou um Desenvolvedor Web Full Stack e estudante de Física. Meu recente interesse pela tecnologia me levou a adquirir habilidades em JavaScript e a buscar soluções inovadoras para desafios complexos.
 
 - 📚 Licenciando em **Física** pela **UFRJ**.
 - 💻 Estudando **Programação FullStack** na **Driven**.
