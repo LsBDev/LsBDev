@@ -4,8 +4,8 @@
 Sou um Desenvolvedor Web Full Stack e estudante de Física. Meu recente interesse pela tecnologia me levou a adquirir habilidades em JavaScript e a buscar soluções inovadoras para desafios complexos.
 
 - 📚 Licenciando em **Física** pela **UFRJ**.
-- 💻 Estudando **Programação FullStack** na **Driven**.
-- 🌱 Atualmente estou aprendendo NestJs
+- 💻 **Desenvolvedor FullStack**.
+- 
 ##
 
 <div align="center">
