@@ -5,7 +5,6 @@ Sou um Desenvolvedor Web Full Stack e estudante de Física. Meu recente interess
 
 - 📚 Licenciando em **Física** pela **UFRJ**.
 - 💻 **Desenvolvedor FullStack**.
-- 
 ##
 
 <div align="center">
