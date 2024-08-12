@@ -3,9 +3,8 @@
 ### Olá Mundo, eu sou Luís Felipe  👋
 Como Desenvolvedor Web Full Stack, trilhei um caminho de aprimoramento contínuo que resultou no domínio de várias tecnologias da stack de JavaScript. Esse conhecimento me capacitou a enfrentar desafios complexos com uma abordagem inovadora e pragmática. Buscando constantemente a excelência em todas as camadas do desenvolvimento, sigo aprimorando meus conhecimentos e habilidades, enquanto também encontro inspiração em minha paixão pela música e a energia revigorante dos esportes.
 
-- 📚 Licenciando em **Física** pela **UFRJ**.
+- 📚 Estudante de **Computação** pela **UFF**.
 - 💻 **Desenvolvedor FullStack**.
-- 🌱 Atualmente, estou participando do programa de mentoria da **Black Scorpion Software**.
 ##
 
 <div align="center">
